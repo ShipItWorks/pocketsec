@@ -2,6 +2,13 @@
 
 Public record of changes to pocketsec, written from the product page on shipitworks.com. The source is private. Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Release tags exist on the private repository's default branch.
 
+## 2026-11-10 (release v0.6.0)
+
+- 2026-11-10: Site copy only: the planned target 'A free score with published rules' now says a top score does not mean the phone is safe. No code or score change.
+- 2026-11-10: Land PR #104 merged into main as 2a92ead (6 lane PRs included); no feature label changed this round. Tagged v0.6.0 at 2a92ead.
+
+Score 56 / 100 on our own rubric, scored 2026-11-10. Product page: https://shipitworks.com/apps/#pocketsec
+
 ## 2026-11-08 (release v0.5.0)
 
 - 2026-11-08: Native password-check copy now names the host it contacts (api.pwnedpasswords.com) and says the check shows your IP address to Have I Been Pwned; 4 source-reading tests added, 43 native tests pass on a JVM (#44). A run recorded that the habit-fix third-party phrases match six vendor pages, 6 of 6 (#43). A run on a stock Android 36 emulator found 4 of 5 native Settings paths; one not found, run exited 1 (#51). Release v0.5.0.
