@@ -2,6 +2,12 @@
 
 Public record of changes to pocketsec, written from the product page on shipitworks.com. The source is private. Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Release tags exist on the private repository's default branch.
 
+## 2026-11-18 (release v0.6.0)
+
+- 2026-11-18: A review at commit 0a36701 found a native Android app in the repository (Kotlin and Compose; its 67 tests passed and it ran on an emulator), so the Google Play line now reads Not on Play. The live site returned a Content-Security-Policy header. No feature label or score changed.
+
+Score 56 / 100 on our own rubric, scored 2026-11-12. Product page: https://shipitworks.com/pocketsec/
+
 ## 2026-11-10 (release v0.6.0)
 
 - 2026-11-10: Site copy only: the planned target 'A free score with published rules' now says a top score does not mean the phone is safe. No code or score change.
