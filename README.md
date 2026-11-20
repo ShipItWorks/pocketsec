@@ -2,7 +2,9 @@
 
 Find out how hackable you are. The scan runs in your browser; what leaves the device is not yet traced (the password check sends a 5-character hash prefix to Have I Been Pwned).
 
-**Score: 56 / 100** on our own [rubric](https://shipitworks.com/how-we-score/). Stage: Alpha. Scored 2026-11-12; this record was updated 2026-11-18 from the [product page](https://shipitworks.com/pocketsec/).
+Paused since 18 November 2026, while I finish patchowner. See [patchowner](https://shipitworks.com/patchowner/).
+
+**Score: 56 / 100** on my own [rubric](https://shipitworks.com/how-we-score/). Stage: Alpha. Scored 2026-11-12; this record was updated 2026-11-18 from the [product page](https://shipitworks.com/pocketsec/).
 
 Every number on the product page names the file it came from. The lists below are copied from that page, not rewritten.
 
@@ -52,9 +54,9 @@ The demo voice is AI-generated (ElevenLabs, "Bella") and the demo shows made-up 
 
 The source is private for now. This repository holds the public record for the product: this README and a CHANGELOG, and soon a LICENSE. Until the source is public, the [product page](https://shipitworks.com/pocketsec/) is the source of truth, and the score above is the one to trust.
 
-## How we work
+## How I work
 
-Say only what we can back. Say what is not finished before anyone asks. Name people, companies and tools to give credit. Collect as little data as possible. We use AI and say so: Claude (by Anthropic) helps write the code and wrote this README.
+I say only what I can back. I say what is not finished before anyone asks. I name people, companies and tools to give credit. I collect as little data as possible. Built with Claude, by Anthropic: Claude helps write the code and wrote this README. Directed, tested and owned by Robert Sweetman in Stoughton, Massachusetts.
 
 Full version: [github.com/ShipItWorks](https://github.com/ShipItWorks) · Contact: support@shipitworks.com
 
